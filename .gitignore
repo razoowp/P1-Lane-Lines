@@ -1,0 +1,8 @@
+__pycache__
+examples
+test_videos/challenge.mp4
+test_videos/empty*
+test_videos_output/challenge.mp4
+test_videos/empty
+
+.ipynb_checkpoints
